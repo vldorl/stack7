@@ -1,0 +1,1 @@
+objdump -t /opt/protostar/bin/format1 | grep target

@@ -1,0 +1,1 @@
+/opt/protostar/bin/format1 "AAAABB%130\$x"
